@@ -1,0 +1,19 @@
+
+
+mi parte de introduccion:
+
+
+En este informe, exploramos el fascinante desarrollo de un proyecto estratégico centrado en mejorar la experiencia tecnológica de adultos mayores en redes sociales a través de la creación de un mock-up. En un contexto de rápida evolución digital y creciente brecha tecnológica, esta iniciativa destaca como un faro de soluciones. Detallamos objetivos específicos y generales que guían nuestro esfuerzo hacia metas concretas, abordando desafíos meticulosamente identificados. La planificación del proceso de testeo se revela como esencial, asegurando una evaluación rigurosa y capturando las voces fundamentales de los adultos mayores. Este informe no es solo un registro de acciones, sino una reflexión sobre cómo, con innovación y empatía, transformamos desafíos en oportunidades, guiando a los adultos mayores hacia una experiencia digital más accesible y enriquecedora.
+
+
+Numero de ppt que se dicen:
+
+Nicolas H : 1, 2, 3, 4
+Benja Jofre: 5, 6
+Ignacio Coa : 7, 8, 9, 10
+Nicolas Rojo: 24, 25
+Paolo Garcia: 22, 23
+
+cabros estan disponibles 22, 23, 24, 25, ustedes eligen
+
+la diapo del 11 al 21 la desimos todos, aunque es solo mostrar visualmente
