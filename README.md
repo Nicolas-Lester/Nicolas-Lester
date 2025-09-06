@@ -19,12 +19,11 @@ y aportar con soluciones digitales innovadoras y de impacto.
 
 ## 📬 Cómo contactarme
 - 📧 Correo: nicolasherreramontes625@gmail.com  
-- 💼 LinkedIn: *(puedes crear/poner tu link de LinkedIn si quieres)*  
+- 💼 LinkedIn: www.linkedin.com/in/nicolas-herrera-montes
 
 ## ⚡ Dato curioso
 Me gusta crear proyectos que mezclan tecnología con propósito social,  
 como el sistema de adopciones **PataRescata**, que busca mejorar la vida de las mascotas y facilitar la gestión para fundaciones.  
-## Hi there 👋
 
 <!--
 **Nicolas-Lester/Nicolas-Lester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
