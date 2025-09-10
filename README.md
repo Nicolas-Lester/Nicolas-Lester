@@ -1,4 +1,4 @@
-# MyProject - Gestor de Recursos Humanos (Django)
+# Infosu_cl- Gestor de Recursos Humanos (Django)
 
 Este proyecto es una aplicación web desarrollada con **Django** que funciona como un **gestor de personal / gestor de recursos humanos**.  
 Permite administrar la información de los empleados de una organización, facilitando el control y la gestión de los recursos humanos.
